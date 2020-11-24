@@ -10,9 +10,9 @@ Currently it doesent allow to use annotations, type arguments and can't corectly
 ## how to use
 
 Just use make file like this:
-  make all
-  make run
+  `make all
+  make run`
 Or you can do this:
-  make debug
-  make run
+  `make debug
+  make run`
 To see current shift/reduce and reduce/reduce errors
